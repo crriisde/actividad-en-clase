@@ -18,4 +18,5 @@ print (resultado) #esta linea muestra el resultado de la multiplicacion de los 3
 
 print (" ") #esta variable muestra las comillas para el texto 
 ![image](https://github.com/user-attachments/assets/326b21db-b049-4b97-a487-2cce430c093a)
-![image](https://github.com/user-attachments/assets/226b5ee9-96e3-41a2-80ce-abfa446f70e2)
+![image](https://github.com/user-attachments/assets/32bd4510-cbfa-4c2c-9e30-dee9b8d82854)
+
